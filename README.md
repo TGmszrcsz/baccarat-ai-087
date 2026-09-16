@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：版本管理
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 086 篇 - 百家乐Ai预测分析工具：共享截图前先处理与分析无关的信息](https://github.com/TGmszrcsz/baccarat-ai-086) ｜ [下一篇：第 088 篇 - 百家乐Ai预测分析工具：备份恢复后应先检查哪些记录](https://github.com/TGmszrcsz/baccarat-ai-088)
+
+<!-- article-chain:end -->
+
 文件有校验值，被误认为其中结论已经得到验证。本篇围绕“校验值能够证明什么又不能证明什么”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
